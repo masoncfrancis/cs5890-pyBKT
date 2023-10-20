@@ -15,4 +15,9 @@ if __name__ == '__main__':
     model2.fit(data_path = "data/ct.csv", forgets=True)
     print("BKT+Forgets:", model2.evaluate(data_path = "data/ct.csv", metric="accuracy"))
 
+    print("Without forgets:")
     ic(model.coef_)
+
+    print("\nWith forgets:")
+    ic(model2.coef_)
+

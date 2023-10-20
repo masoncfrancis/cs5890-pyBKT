@@ -12,3 +12,27 @@ BKT+Forgets: 0.7821308881819574
 ```
 
 The difference between them is 0.0368, with the model the forgetting parameter having a greater accuracy. 
+
+## Question 2
+
+'Plot Pi' appears to be the easiest to learn.
+
+## Question 3
+
+'Plot terminating proper fraction' appears to be the hardest to learn.
+
+## Question 4
+
+'Plot whole number' is the easiest to guess.
+
+## Question 5
+
+'Plot non-terminating improper fraction' appears to be the hardest to guess.
+
+## Question 6
+
+The model with the forgetting parameter is more accurate by roughly .05. So not too much.
+
+## Question 7
+
+
