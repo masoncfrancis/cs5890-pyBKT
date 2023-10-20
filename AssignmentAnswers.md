@@ -35,4 +35,20 @@ The model with the forgetting parameter is more accurate by roughly .05. So not 
 
 ## Question 7
 
+'Calculate unit rate' was the easiest to forget.
 
+## Question 8
+
+'Plot non-terminating improper fraction' was the hardest to forget. 
+
+## Question 9
+
+### Question 8
+
+Plotting a non-terminating improper fraction is hardest to forget because, in my opinion, doing that requires knowledge that was learned in elementary school.
+It is based on something more foundational.
+
+### Question 2
+
+Plotting pi is easiest to learn because, in my opinion, it is similar to the previous question in that pi is a very foundational value that was learned
+early on in math education. 
